@@ -29,7 +29,7 @@ const content = {
   },
   industries: {
     heading: ["Industries I've", 'worked in'],
-    items: ['Automotive', 'Aviation & Hospitality', 'Healthcare', 'Marketing agencies', 'Logistics', 'E-commerce'],
+    items: ['Automotive', 'Airports & Travel', 'Healthcare', 'Marketing agencies', 'Logistics', 'E-commerce'],
   },
   stack: [
     ['Languages', ['TypeScript', 'JavaScript', 'Python', 'PHP', 'SQL']],
